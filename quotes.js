@@ -18,9 +18,15 @@ module.exports = function() {
   "\"Ray, if someone asks if you're a god, you say YES!\" -- Ghostbusters",
   "\"Why did it have to be snakes?\" -- Raiders of the Lost Ark",
   "\"Nuke it from orbit, it's the only way to be sure.\" -- Aliens",
-  "\"Excuse me, I have to go. Somewhere there is a crime happening.\" -- RoboCop",
-  "\"As you wish. \" --The Princess Bride"
-  "\"Be excellent to each other!\" -- Bill and Ted's Excellent Adventure"
+  "\"Excuse me, I have to go. Somewhere there is a crime happening.\" -- RoboCop",    
+  "\"Hey, you guuuys!\" -- Goonies",
+  "\"I can bear no longer! Goblin King! Goblin King! Wherever you may be take this child of mine far away from me!\" -- Labyrinth",  
+  "\"Say hello to my little friend!\" -- Scarface",
+  "\"As you wish. \" --The Princess Bride",
+  "\"Be excellent to each other!\" -- Bill and Ted's Excellent Adventure", 
+  "\"I may be a beginner at some things, but I've got a black belt in shopping!\" -- Troop Beverly Hills",
+  "\"I don't know what the hell's in there, but it's weird and pissed off, whatever it is.\" -- The Thing"
+    
 ];
 
   return quotes;
