@@ -25,8 +25,10 @@ module.exports = function() {
   "\"As you wish. \" --The Princess Bride",
   "\"Be excellent to each other!\" -- Bill and Ted's Excellent Adventure", 
   "\"I may be a beginner at some things, but I've got a black belt in shopping!\" -- Troop Beverly Hills",
-  "\"I don't know what the hell's in there, but it's weird and pissed off, whatever it is.\" -- The Thing"
-    
+  "\"I don't know what the hell's in there, but it's weird and pissed off, whatever it is.\" -- The Thing",
+  "\"Courage of the heart is very rare. The stone has a power when it's there.\" -- The Secret of NIMH",
+  "\"It is four years since our departure from NIMH, and our world is changing. We cannot stay here much longer.\" -- The Secret of NIMH",
+  "\"Right. When you're right, you're right. And you're right.\" -- The Secret of NIMH"
 ];
 
   return quotes;
